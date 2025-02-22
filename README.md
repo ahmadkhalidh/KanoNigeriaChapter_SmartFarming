@@ -3,7 +3,9 @@
 
 Collaborators will upload the cleaned datasets inside the cleaned dataset folder. The structure will be as follows
 
--> Main Folder Name: Cleaned Dataset
+-> Main Folder Name: Cleaned Datasets
 
---> Sub-Folder Name: Sr.No 10-15
+--> Sub-Folder Name: Northern Kano State
+
+---> Sub Sub-Folder: 6. Gabasawa, N Kano_CLEANED.csv
  
